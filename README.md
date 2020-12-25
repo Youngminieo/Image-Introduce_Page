@@ -10,7 +10,7 @@
 ## 구현 들어가기전 구상 초안
 
 
-<img src="./Racer_자기소개페이지 초안.png" width="600" height="400">
+<img src="./Racer_자기소개페이지 초안.png" width="50%" height="50%">
 
 
 
@@ -38,7 +38,7 @@
 
 ## 최종 결과
 
-<img src="./result-image.png" width="600" height="400">
+<img src="./result-image.png" width="100%" height="100%">
 
 
 
