@@ -10,7 +10,7 @@
 ## 구현 들어가기전 구상 초안
 
 
-<center><img src="./public/page_draft.png" width="600" height="400"></center>
+<img src="./Racer_자기소개페이지 초안.png" width="600" height="400">
 
 > 정말 간단하게 구상했다..😂
 
