@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    position: relative;
+    background-color:#9b80eb;
+    font-family: 'Fredoka One';
+    padding-top: 100px;
+    margin : 0 100px;
+}
+ul{
+    font-family: 'Open Sans', sans-serif;
+}
+li{
+    list-style: none;
+    font-weight: bold;
+    color: #808080
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+.profile{
+    position: absolute;
+    background-color: white;
+    border-top: 10px solid #533e94;
+    border-bottom: 10px solid #533e94;
+    border-radius: 10px;
+    width: 100%;
+    /*height: 625px;*/
+    height : auto;
+}
+
+.profile-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
+    overflow: hidden;       /*이미지 크기초과시 어떻게 할지 설정*/
+    display:block;          /*img 요소, block요소로 만든 후*/
+    margin : 15px auto;  
+    text-align: center;
+    object-fit: cover;
+    
+}
+.info-0{
+    text-align: center;
+}
+
+.info-1{
+    float: left;
+    width : 33.3333%;
+    border-radius: 10px;
+    margin : 0 auto;
+}
+
+.info-1 h2,ul,li{
+    text-align: center;
+}
+.info-2{
+    float: left;
+    width : 30.3333%;
+    border-radius: 10px;
+    margin : 0 auto;
+}
+
+.info-2 h2,ul,li{
+    text-align: center;
+}
+.info-3{
+    float: right;
+    width : 33.3333%;
+    border-radius: 10px;
+    margin : 0 auto;
+}
+.info-3 h2,ul,li{
+    text-align: center;
+}
+.info-4{
+    clear: both;
+    float: left;
+    width : 50%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.info-4 h2,ul,li{
+    text-align: center;
+}
+.info-5{
+    float:left;
+    width : 50%;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+.info-5 h2,ul,li{
+    text-align: center;
+}
+
+.icon{
+    clear:both;
+    display: block;
+    width : 350px;
+    text-align: center;
+
+    margin : 10px auto;
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+}
+
+.footer-image{
+    position: relative;
+    bottom: -750px;
+    display: block;
+    width : 100px;
+    height : 70px;
+    margin-left :  auto;
+    margin-right :  auto;
+    
+}
